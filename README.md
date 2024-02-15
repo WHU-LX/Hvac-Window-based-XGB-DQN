@@ -2,9 +2,9 @@
 
 **Author** : [Xin,Liu](https://www.researchgate.net/profile/Xin-Liu-476), and [Gou,Zhonghua\*](https://www.researchgate.net/profile/Zhonghua-Gou-2). 
 
-**Publication** : "Occupant-centric HVAC and window control: A reinforcement learning model for enhancing indoor thermal comfort and energy efficiency." [Building and Environment](https://www.sciencedirect.com/science/article/abs/pii/S0360132324000398) (2024): 111197.
+**Publication** : Occupant-centric HVAC and window control: A reinforcement learning model for enhancing indoor thermal comfort and energy efficiency. [Building and Environment](https://www.sciencedirect.com/science/article/abs/pii/S0360132324000398) (2024): 111197.
 
-**Institution** ： School of Urban Design, Wuhan University, Wuhan, China;
+**Institution** : School of Urban Design, Wuhan University, Wuhan, China;
 
 ## Abstract
 
@@ -17,11 +17,12 @@ By applying the XGB-DQN model in sample rooms of four international cities with 
 This research represents a pioneering effort in applying reinforcement learning techniques to accurately predict occupant behavior's impact on indoor environments, offering valuable insights for intelligent building design and energy management.
 
 
-### Keywords
+## Keywords
 - HVAC and window control
 - Occupant behavior
 - Reinforcement learning
 - Thermal comfort
 - Energy efficiency
 
+## Diagram
 ![Program structure of XGB-DQN for HVAC-Window system control](https://ars.els-cdn.com/content/image/1-s2.0-S0360132324000398-gr3_lrg.jpg)
