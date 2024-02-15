@@ -1,6 +1,6 @@
 # Hvac-Window-based-XGB-DQN
 
-**Author** : [Xin,Liu](https://www.researchgate.net/profile/Xin-Liu-476), and [Gou,Zhonghua\*](https://www.researchgate.net/profile/Zhonghua-Gou-2). 
+**Author** : [Xin,Liu](https://www.researchgate.net/profile/Xin-Liu-476), and [Zhonghua,Gou\*](https://www.researchgate.net/profile/Zhonghua-Gou-2). 
 
 **Publication** : Occupant-centric HVAC and window control: A reinforcement learning model for enhancing indoor thermal comfort and energy efficiency. [Building and Environment](https://www.sciencedirect.com/science/article/abs/pii/S0360132324000398) (2024): 111197.
 
